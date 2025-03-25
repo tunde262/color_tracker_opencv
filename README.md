@@ -2,6 +2,8 @@
 
 This project demonstrates real-time color detection and tracking using Python and OpenCV. It captures live webcam footage, converts it from RGB to HSV, and applies a masking function to detect a specified color range. The program then draws a bounding box around the detected color in real-time.
 
+![thumbnail](https://github.com/tunde262/color_tracker_opencv/blob/main/assets/thumbnail.png?raw=true)
+
 ## Project Goal
 
 The goal of this project was to explore the applications of computer vision in color detection by building an app that processes video footage to identify and track objects based on their color.
